@@ -201,12 +201,8 @@ The final Random Forest model achieved a **ROC-AUC score of 1.00**, indicating a
 ## 📁 Repository Structure
 
 ```text
-├── data/
-├── notebooks/
-│   └── churn_prediction.ipynb
-├── images/
+├── notebook.ipynb
 ├── README.md
-└── requirements.txt
 ```
 
 ---
